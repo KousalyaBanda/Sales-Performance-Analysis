@@ -77,8 +77,8 @@ jupyter notebook sales_analysis.ipynb
 
 **B. Kousalya**
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
+* GitHub: https://github.com/KousalyaBanda
+* LinkedIn: https://linkedin.com/in/kousalya-banda
 * Portfolio: https://YOUR_PORTFOLIO_LINK
 
 ---
